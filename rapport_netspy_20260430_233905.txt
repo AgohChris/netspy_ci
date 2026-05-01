@@ -1,0 +1,53 @@
+============================================================
+  NETSPY CI — RAPPORT D'AUDIT RÉSEAU
+  Généré automatiquement par NetSpy CI v1.0
+============================================================
+
+  Date et heure    : 30/04/2026 à 23:39:05
+  Machine auditée  : Py
+  IP locale        : 192.168.15.100
+  Plage réseau     : 192.168.15
+
+------------------------------------------------------------
+  SECTION 1 — MACHINES DÉTECTÉES
+------------------------------------------------------------
+
+  Aucune machine détectée lors de l'audit.
+
+------------------------------------------------------------
+  SECTION 2 — CONNEXION INTERNET
+------------------------------------------------------------
+
+  Connexion Internet : OPÉRATIONNELLE
+  DNS Google         : Résolu (142.251.29.139)
+
+------------------------------------------------------------
+  SECTION 2B — SITES CONSULTÉS SUR LE RÉSEAU
+------------------------------------------------------------
+
+  7 site(s) détecté(s) durant l'audit :
+
+  1    gsp64-ssl.ls-apple.com.akadns.net
+  2    configuration-lb.ls-apple.com.akadns.net
+  3    configuration.ls.v.aaplimg.com
+  4    init.itunes.apple.com
+  5    e673.dsce9.akamaiedge.net
+  6    api.github.com
+  7    get-bx.g.aaplimg.com
+
+------------------------------------------------------------
+  SECTION 3 — QUALITÉ DU RÉSEAU
+------------------------------------------------------------
+
+  Trafic total mesuré  : 1.0 Ko
+  Niveau de trafic     : FAIBLE
+  Stabilité passerelle : 100%
+
+------------------------------------------------------------
+  SECTION 4 — RECOMMANDATIONS
+------------------------------------------------------------
+  ✓ Aucune anomalie majeure. Réseau en bonne santé.
+
+============================================================
+  Fin du rapport — NetSpy CI | NEOPY Formation Réseau N2
+============================================================
